@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey, I'm Shola✌🏾
+#### Where data meets design — and strategy speaks 
+
+<small>Currently building [Majórem.ai](http://majorem.ai/), a consulting venture that helps organisations cut through noise and turn complexity into clarity.
+
+Through data visualisation, commercial storytelling, and AI-driven insight, we focus on ROI, efficiency, and impact. On GitHub I share calculation blueprints, viz design experiments, and planning frameworks that reflect both our client work and my journey in shaping data into actionable strategy.</small>
+
+<p align="right"><small><em>Strategy in data’s language 💜</em></small></p>
+
 
 <!--
 **majoremai/majoremai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
