@@ -9,7 +9,7 @@ Through data visualisation, commercial storytelling, and AI-driven insight, we f
 
 
 
-## Certifications
+## Achievements
 
 <p>
   <a href="https://www.credly.com/badges/bf47a031-0ba5-4898-81f8-584d15cddc1b/linked_in_profile">
