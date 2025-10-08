@@ -8,6 +8,17 @@ Through data visualisation, commercial storytelling, and AI-driven insight, we f
 <p align="right"><small><em>Strategy in data’s language 💜</em></small></p>
 
 
+
+### Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/bf47a031-0ba5-4898-81f8-584d15cddc1b/linked_in_profile">
+    <img src="assets/badges/tableau-ambassador-badge.png" height="70" />
+  </a>
+</p>
+
+
+
 <!--
 **majoremai/majoremai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
