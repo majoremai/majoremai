@@ -5,7 +5,7 @@
 
 Through data visualisation, commercial storytelling, and AI-driven insight, we focus on ROI, efficiency, and impact. On GitHub I share calculation blueprints, viz design experiments, and planning frameworks that reflect both our client work and my journey in shaping data into actionable strategy.</small>
 
-<p align="left"><small><em>Strategy in data’s language 💜</em></small></p>
+<p align="right"><small><em>Strategy in data’s language 💜</em></small></p>
 
 
 
