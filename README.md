@@ -17,6 +17,17 @@ Through data visualisation, commercial storytelling, and AI-driven insight, we f
   </a>
 </p>
 
+## Stack
+<p>
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square">
+  <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat-square">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square">
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square">
+</p>
+
+
 
 
 <!--
