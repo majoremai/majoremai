@@ -5,8 +5,6 @@
 
 Through data visualisation, commercial storytelling, and AI-driven insight, we focus on ROI, efficiency, and impact. On GitHub I share calculation blueprints, viz design experiments, and planning frameworks that reflect both our client work and my journey in shaping data into actionable strategy.</small>
 
-<p align="right"><sub><em>strategy in data’s language 💜</em></sub></p>
-
 
 
 ## Accolades
@@ -27,8 +25,12 @@ Through data visualisation, commercial storytelling, and AI-driven insight, we f
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square">
 </p>
 
+## Contact
+Got a data, AI, or analytics project in mind—or want to super-charge your dashboards, strategy, or insight workflows? We’d love to help. 
 
+Email **info@majorem.ai** and we’ll get back to you to explore the best way forward.
 
+<p align="right"><sub><em>strategy in data’s language 💜</em></sub></p>
 
 <!--
 **majoremai/majoremai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
