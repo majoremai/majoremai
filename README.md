@@ -3,7 +3,9 @@
 
 <small>Currently building **[Majórem.ai](http://majorem.ai/)**, a consulting venture that helps organisations cut through noise and turn complexity into clarity.
 
-Through data visualisation, commercial storytelling, and AI-driven insight, we focus on ROI, efficiency, and impact. On GitHub I share calculation blueprints, viz design experiments, and planning frameworks that reflect both our client work and my journey in shaping data into actionable strategy.</small>
+Through data visualisation, commercial storytelling, and AI-driven insight, we focus on ROI, efficiency, and impact. 
+
+On GitHub I share calculation blueprints, viz design experiments, and planning frameworks that reflect both our client work and my journey in shaping data into actionable strategy.</small>
 
 
 
