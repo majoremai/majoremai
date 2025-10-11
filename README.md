@@ -26,9 +26,9 @@ Through data visualisation, commercial storytelling, and AI-driven insight, we f
 </p>
 
 ## Contact
-Got a data, AI, or analytics project in mind—or want to super-charge your dashboards, strategy, or insight workflows? We’d love to help. 
+<small>Got a data, AI, or analytics project in mind—or want to super-charge your dashboards, strategy, or insight workflows? We’d love to help. 
 
-Email **info@majorem.ai** and we’ll get back to you to explore the best way forward.
+Email **info@majorem.ai** and we’ll get back to you to explore the best way forward.</small>
 
 <p align="right"><sub><em>strategy in data’s language 💜</em></sub></p>
 
