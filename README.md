@@ -1,4 +1,4 @@
-## Hey, I'm Shola✌🏾
+## Hi, I'm Shola✌🏾
 #### Where data meets design — and strategy speaks 
 
 <small>Currently building **[Majórem.ai](http://majorem.ai/)**, a consulting venture that helps organisations cut through noise and turn complexity into clarity.
