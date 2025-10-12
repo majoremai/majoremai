@@ -30,7 +30,7 @@ On GitHub I share calculation blueprints, viz design experiments, and planning f
 ## Contact
 <small>Got a data, AI, or analytics project in mind—or want to super-charge your dashboards, strategy, or insight workflows? We’d love to help. 
 
-Email **info@majorem.ai** and we’ll get back to you to explore the best way forward.</small>
+Email **studio@majorem.ai** and we’ll get back to you to explore the best way forward.</small>
 
 <p align="right"><sub><em>strategy in data’s language 💜</em></sub></p>
 
